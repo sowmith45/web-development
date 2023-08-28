@@ -1,0 +1,10 @@
+/*     # - ID ; . - CLASS  */
+img{
+    width: 200px;
+    height: 200px;
+}
+h1{
+    color: deepskyblue;
+    text-align: center;
+    font: bold;
+}
