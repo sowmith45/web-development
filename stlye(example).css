@@ -1,3 +1,15 @@
 h1{
     color: brown;
 }
+h3{
+    color: aqua;
+    text-align: center;
+    size: 90px;
+}
+#reall{
+    background-color: blue;
+}
+.weal{
+    background-color: aqua;
+    color: teal;
+}
