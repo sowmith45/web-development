@@ -8,8 +8,18 @@ h3{
 }
 #reall{
     background-color: blue;
+    padding: 50px;
+    border-left: dotted;
+    font-size: 30px;
+    font-weight: 900;
 }
 .weal{
-    background-color: aqua;
+    background-color: #DD2D57;
     color: teal;
+}
+form{
+
+}
+table{
+
 }
